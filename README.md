@@ -1,7 +1,9 @@
 # 🛍️ Boutique Database Management System
 
-## 🚀 Introduction
 The **Boutique Database Management System** is a cutting-edge solution designed to modernize boutique operations. Say goodbye to messy spreadsheets and manual records—this system brings automation, efficiency, and precision to boutique management.
+
+![Botique](reference-bm.png)
+
 
 🌐 **Live Website:** [Latha Tailor Boutique](https://lathatailor.web.app/)  
 
