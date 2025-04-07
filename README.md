@@ -24,5 +24,4 @@ The **entity-driven design** ensures a well-structured database that maintains d
 
 ## ⚡ Quick Setup
 1. **Clone the repo**  
-   ```sh
-   git clone https://github.com/yourusername/boutique-dbms.git
+  https://github.com/saicharan0623/Boutique-Management-System.git
